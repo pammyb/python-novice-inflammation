@@ -11,3 +11,5 @@ Maintainers:
 
 * [Trevor Bekolay](http://software-carpentry.org/team/#jackson_m)
 * [Valentina Staneva](http://software-carpentry.org/team/#staneva_valentina)
+
+You can find the rendered materials [here](http://uwescience.github.io/python-novice-inflammation/ ).
